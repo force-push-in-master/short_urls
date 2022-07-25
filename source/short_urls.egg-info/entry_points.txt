@@ -1,0 +1,4 @@
+[console_scripts]
+short-urls-init-db = short_urls.db.init_db:init_db
+short-urls-run = short_urls.main:main
+
